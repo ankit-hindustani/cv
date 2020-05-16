@@ -1,0 +1,21 @@
+  body{
+    background-color: #def4f0;
+
+}
+h1{
+  color: #9a1f40;
+}
+h2{
+  color: #9a1f40;
+}
+
+.part1{
+
+  background: #f9f7f7;
+  }
+#mainHeading{
+  color: #162447;
+}
+.circular{
+  border-radius: 100%;
+}
